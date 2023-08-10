@@ -1,0 +1,134 @@
+.hero{background-image: linear-gradient(to right, black, #004AAD);}
+.nav{display: flex;
+    align-items: center;
+  justify-content:space-between;
+}
+.detail{font-size: 40px;
+       margin-bottom: 100px}
+
+nav ul li{list-style-type: none;
+        display:inline-block;
+      padding: 10px 20px}
+nav ul li a{color: white;
+            font: regular;
+          font-size: 30px}
+button{background: #0D0847;
+  border-radius: 5px;
+  color:white;
+  padding: 12px,30px;
+
+  height: 60px;
+  width: 200px
+}
+.best{color: white;
+      text-align: center;
+      font: bold;
+      font-size: 60px;
+    }
+
+.h2{color:white;
+   height: 200px;
+   width:1250px;
+   text-align: center;
+   margin-left: 300px}
+
+span{color: #99DDC8}
+
+.best2{color: white;
+      text-align: center;
+      font-size: 50px}
+
+.divcontainer{display: flex;
+             justify-content: center;}
+
+.margin{margin-right: 50px}
+
+
+.square{height: 600px;
+        width: 391px;
+        background-image: linear-gradient(to left top, #008BAD,#0D0847);
+        margin: 50px;
+        border:4px solid white;
+        border-radius: 20px
+      }
+
+.cumpara{margin-left: 100px}
+
+.div3{display: flex;
+      justify-content: center;}
+
+.font1{color: white;
+    margin-left: 30px;
+    font-size:32px}
+h5{color: white;
+   font-size: 32px;
+   font: bold;
+   margin-left: 30px}
+
+ .recenzi{color: white;
+          font-size: 48px}
+.div4{
+      display:flex;}
+
+.picture{height: 115px;
+         width: 115px;
+        border-radius: 50%;
+      }
+
+.maxim{color: white;
+      font-size :48px}
+
+.h4{color: white;
+   font-size: 36px;
+   margin-top: 0px;
+  width: 800px}
+
+.maxdiv{display: flex;
+  justify-content: space-between;
+}
+
+.int{display: flex;
+    width: 610px;
+    height: 80px;
+    margin-left: 620px;
+    font-size: 36px;
+    background-color: #D9D9D9;
+    color: #A9A9A9;
+    margin-bottom:40px}
+
+.conect{width: 610px;
+        height: 80px;
+       margin-left: 620px;
+       background-color: black;
+
+       font: white;
+       font-size: 36px
+   }
+
+.down{width: 1890px;
+      height: 400px;
+    background-color: black;
+  margin-top: 90px}
+
+
+.meniu{font-size: 20px;
+       color: white;
+       margin-bottom: 22px
+     }
+.space{display: flex}
+
+.apel{height: 50px;
+      width: 200px;
+     background-color: white;
+     color: black;
+     font-size:18px}
+
+.space1{margin-left: 75px}
+
+.space2{margin-left: 425px;
+        margin-top: 80px}
+.space3{margin-left: 325px;
+        margin-top: 80px}
+
+.space4{margin-left:425px ;
+       margin-top: 80px}
